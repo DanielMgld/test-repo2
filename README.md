@@ -1,7 +1,7 @@
-#Demo 2
+# Demo 2
 
 Text text text
 
-#Local Development
+# Local Development
 
 1. Open index.html in your browser.
